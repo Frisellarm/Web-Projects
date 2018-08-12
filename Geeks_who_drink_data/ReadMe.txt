@@ -4,7 +4,7 @@ https://www.geekswhodrink.com/schedule/TX
 Scrap the data:
 Geeks Who Drink.ipynb
 
-Find the locations on Gmaps:
+Find the locations using Google Maps API:
 Gmaps_Austin_venues.ipynb
 
 Viz here on Tableau Public:
