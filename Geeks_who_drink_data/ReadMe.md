@@ -16,11 +16,3 @@ https://public.tableau.com/profile/ryan4076#!/vizhome/2018-08-01_Geeks_Who_Drink
 
 ## Google "My Maps":
 https://www.google.com/maps/d/edit?mid=1c1C13o-hHTr025_NEyVzgS0nicZKeN1x&ll=30.31773400479566%2C-97.75127425000005&z=11
-
-<div class="container">
-	
-	<iframe
-		class="googlemap" frameborder="0" scrolling="no"
-		src=""https://www.google.com/maps/d/embed?mid=1c1C13o-hHTr025_NEyVzgS0nicZKeN1x&amp;output=embed"></iframe>
-
-</div>
