@@ -10,6 +10,10 @@ gradebook.db
 # Editor
 .vscode
 
+# hide gitfiles
+.gitignore.txt
+.gitattributes.txt
+
 
 # Jupyter Checkpoints
 
@@ -20,6 +24,8 @@ gradebook.db
 __pycache__/
 *.py[cod]
 *$py.class
+
+*/_chromedriver_win32/*
 
 # C extensions
 *.so
